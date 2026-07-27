@@ -1,10 +1,6 @@
 <h1 align="center">Benjy</h1>
 <p align="center">Software Developer · Systems &amp; Tooling</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Benjy0812&label=Profile%20Views&color=333333&style=flat-square" alt="Profile views" />
-</p>
-
 <br>
 
 ## About
