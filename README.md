@@ -18,7 +18,7 @@ I'm a developer focused on systems-level tools and developer tooling. My current
 ## Skills & Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,html,rust,py,java,cpp,cs,nodejs,bun,deno,vite,tailwind,cargo,npm,docker,git,github,windows,apple,linux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,css,html,rust,py,java,cpp,cs,nodejs,bun,deno,vite,tailwind,npm,docker,git,github,windows,apple,linux&perline=11" />
 </p>
 
 ## Contact
