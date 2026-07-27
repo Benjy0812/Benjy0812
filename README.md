@@ -6,4 +6,8 @@
 - ⚡ Fun fact: I can a little bit if everything and im open to learn anything.
 
 
-![whee](https://github-readme-activity-graph.vercel.app/graph?username=Benjy0812&bg_color=1B2B48&color=38b6ff&line=38b6ff&point=ffffff&area=true&hide_border=true)
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benjy0812&theme=dark">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjy0812&theme=dark" >
+</div>
