@@ -17,10 +17,8 @@ I'm a developer focused on systems-level tools and developer tooling. My current
 
 ## Skills & Expertise
 
-Comfortable with JavaScript and CSS3. Exposure to Rust, Python, Java, C++, and C# through personal projects and learning.
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,rust,py,java,cpp,cs,html,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,css,html,rust,py,java,cpp,cs,nodejs,bun,deno,vite,tailwind,cargo,npm,docker,git,github,windows,apple,linux&perline=11" />
 </p>
 
 ## Contact
@@ -40,7 +38,6 @@ I'm open to collaboration and always interested in learning new technologies.
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benjy0812&theme=default" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjy0812&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benjy0812&theme=default&border_color=e4e2e2&border_radius=4" />
 </div>
 
 <h2 align="center">GitHub Streak</h2>
