@@ -30,13 +30,7 @@ I'm open to collaboration and always interested in learning new technologies.
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benjy0812&theme=default" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjy0812&theme=default" />
-</div>
-
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benjy0812&theme=default&border_radius=10&card_width=500" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Benjy0812&theme=dark&border_radius=10&card_width=500" alt="GitHub Streak" />
 </p>
