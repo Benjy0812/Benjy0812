@@ -4,10 +4,6 @@
 
 I enjoy turning ideas into useful software and learning something new along the way.
 
-<img src="https://komarev.com/ghpvc/?username=Benjy0812&amp;style=flat-square&amp;color=6D4AFF" alt="Profile views" />
-
-</div>
-
 ## About Me
 
 I love the full process of creating software: programming, testing, fixing errors, and tracking down bugs. I work across web development and general-purpose programming, and I'm always interested in learning new technologies and improving the things I build.
