@@ -27,10 +27,3 @@ I'm a developer focused on systems-level tools and developer tooling. My current
 </p>
 
 I'm open to collaboration and always interested in learning new technologies.
-
----
-
-<h2 align="center">GitHub Streak</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benjy0812&theme=dark&border_radius=10&card_width=500" alt="GitHub Streak" />
-</p>
