@@ -1,29 +1,52 @@
-<h1 align="center">Benjy</h1>
-<p align="center">Software Developer · Systems &amp; Tooling</p>
+<div align="center">
 
-<br>
+# Hi, I'm Benjamin
 
-## About
+I enjoy turning ideas into useful software and learning something new along the way.
 
-I'm a developer focused on systems-level tools and developer tooling. My current work centers on package management infrastructure, with an emphasis on performance and reliability.
+<img src="https://komarev.com/ghpvc/?username=Benjy0812&amp;style=flat-square&amp;color=6D4AFF" alt="Profile views" />
 
-## Current Work
+</div>
 
-**Rustget** — An experimental package manager written in Rust, inspired by Microsoft's [Winget](https://github.com/microsoft/winget-cli). The project explores fast, reliable dependency resolution and installation workflows.
+## About Me
 
-## Skills & Expertise
+I love the full process of creating software: programming, testing, fixing errors, and tracking down bugs. I work across web development and general-purpose programming, and I'm always interested in learning new technologies and improving the things I build.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,html,rust,py,java,cpp,cs,nodejs,bun,deno,vite,tailwind,npm,docker,git,github,windows,apple,linux&perline=11" />
-</p>
+Right now, I'm focused on learning Rust and building the experience needed to take on more ambitious systems projects. I'm open to collaborations, opportunities, new ideas, and conversations with other developers.
+
+## Featured Projects
+
+### [Rustget](https://github.com/Benjy0812/Rustget)
+
+An experimental package manager written in Rust, designed around lightweight tooling and JSON package manifests. It is being developed as I deepen my Rust knowledge.
+
+### [NettsideNordKlima](https://github.com/Benjy0812/NettsideNordKlima)
+
+A single-page weather website built with JavaScript and Vite. It fetches forecast data from the MET Norway API and presents it in a straightforward interface.
+
+[View the live website](https://benjy0812.github.io/NettsideNordKlima/)
+
+## Technologies
+
+**Currently learning**
+
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,cs&amp;perline=7" alt="HTML, CSS, JavaScript, Python, Java, C++, and C#" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,bun,deno,vite,tailwind,npm,docker&amp;perline=9" alt="Git, GitHub, Node.js, Bun, Deno, Vite, Tailwind CSS, npm, and Docker" />
+
+**Platforms**
+
+<img src="https://skillicons.dev/icons?i=windows,apple&amp;perline=2" alt="Windows and macOS" />
 
 ## Contact
 
-<p align="left">
-  <a href="mailto:benjaminhr.dev@pm.me">
-    <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-.amethyst1-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</p>
-
-I'm open to collaboration and always interested in learning new technologies.
+<a href="mailto:benjaminhr.dev@pm.me">
+  <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email Benjamin" />
+</a>
+<img src="https://img.shields.io/badge/Discord-.amethyst1-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord: .amethyst1" />
