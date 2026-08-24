@@ -28,9 +28,13 @@ A single-page weather website built with JavaScript and Vite. It fetches forecas
 
 <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 
-**Languages**
+**Web development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,cs&amp;perline=7" alt="HTML, CSS, JavaScript, Python, Java, C++, and C#" />
+<img src="https://skillicons.dev/icons?i=html,css,js&amp;perline=3" alt="HTML, CSS, and JavaScript" />
+
+**Languages I've worked with**
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs&amp;perline=4" alt="Python, Java, C++, and C#" />
 
 **Tools**
 
@@ -46,3 +50,5 @@ A single-page weather website built with JavaScript and Vite. It fetches forecas
   <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email Benjamin" />
 </a>
 <img src="https://img.shields.io/badge/Discord-.amethyst1-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord: .amethyst1" />
+
+</div>
