@@ -4,23 +4,30 @@
 
 I enjoy turning ideas into useful software and learning something new along the way.
 
+</div>
+
 ## About Me
 
-I love the full process of creating software: programming, testing, fixing errors, and tracking down bugs. I work across web development and general-purpose programming, and I'm always interested in learning new technologies and improving the things I build.
+I'm a VG2 IT student in Norway with a strong interest in web development, debugging, and reliable software. I enjoy the full development process: building features, testing them, tracking down bugs, and learning from the problems I encounter.
 
-Right now, I'm focused on learning Rust and building the experience needed to take on more ambitious systems projects. I'm open to collaborations, opportunities, new ideas, and conversations with other developers.
+Right now, I'm improving Nordisk Vær and learning Rust through practical projects. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
 
 ## Featured Projects
 
 ### [Rustget](https://github.com/Benjy0812/Rustget)
 
-An experimental package manager written in Rust, designed around lightweight tooling and JSON package manifests. It is being developed as I deepen my Rust knowledge.
+An experimental package manager built as a practical Rust learning project. It explores command-line development, package manifests, validation, and clear error handling through small milestones.
 
-### [NettsideNordKlima](https://github.com/Benjy0812/NettsideNordKlima)
+**Built with:** Rust<br>
+**Status:** Early development
 
-A single-page weather website built with JavaScript and Vite. It fetches forecast data from the MET Norway API and presents it in a straightforward interface.
+### [Nordisk Vær](https://github.com/Benjy0812/Nordisk-Vaer)
 
-[View the live website](https://benjy0812.github.io/NettsideNordKlima/)
+A single-page weather application that retrieves real-world forecast data from MET Norway and presents it through a straightforward interface. The project is helping me practice API integration, data handling, debugging, and responsive web development.
+
+**Built with:** JavaScript<br>
+**Status:** In development toward version 1.0<br>
+**Live website:** [Open Nordisk Vær](https://benjy0812.github.io/Nordisk-Vaer/)
 
 ## Technologies
 
@@ -38,7 +45,7 @@ A single-page weather website built with JavaScript and Vite. It fetches forecas
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,bun,deno,vite,tailwind,npm,docker&amp;perline=9" alt="Git, GitHub, Node.js, Bun, Deno, Vite, Tailwind CSS, npm, and Docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,bun&amp;perline=4" alt="Git, GitHub, Vite, and Bun" />
 
 **Platforms**
 
@@ -49,6 +56,3 @@ A single-page weather website built with JavaScript and Vite. It fetches forecas
 <a href="mailto:benjaminhr.dev@pm.me">
   <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email Benjamin" />
 </a>
-<img src="https://img.shields.io/badge/Discord-.amethyst1-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord: .amethyst1" />
-
-</div>
