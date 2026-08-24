@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Benjamin
 
 I enjoy turning ideas into useful software and learning something new along the way.
@@ -52,3 +54,5 @@ A single-page weather application that retrieves real-world forecast data from M
 <a href="mailto:benjaminhr.dev@pm.me">
   <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email Benjamin" />
 </a>
+
+</div>
