@@ -1,10 +1,6 @@
-<div align="center">
-
 # Hi, I'm Benjamin
 
 I enjoy turning ideas into useful software and learning something new along the way.
-
-</div>
 
 ## About Me
 
