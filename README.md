@@ -56,3 +56,9 @@ A single-page weather application that retrieves real-world forecast data from M
 </a>
 
 </div>
+
+<div align="center">
+
+*Writing polished with AI assistance — all projects, skills, and experience are genuinely my own.*
+
+</div>
