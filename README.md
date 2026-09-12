@@ -8,7 +8,7 @@ I enjoy turning ideas into useful software and learning something new along the 
 
 I'm a VG2 IT student in Norway with a strong interest in web development, debugging, and reliable software. I enjoy the full development process: building features, testing them, tracking down bugs, and learning from the problems I encounter.
 
-Right now, I'm improving Nordisk Vær and learning Rust through practical projects. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
+Right now, I'm building a To-Do list CLI in C++ and learning to program through practical projects. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
 
 ## Featured Projects
 
@@ -48,6 +48,8 @@ A single-page weather application that retrieves real-world forecast data from M
 **Platforms**
 
 <img src="https://skillicons.dev/icons?i=windows,apple&amp;perline=2" alt="Windows and macOS" />
+
+
 
 ## Contact
 
