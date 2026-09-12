@@ -29,9 +29,9 @@ A single-page weather application that retrieves real-world forecast data from M
 
 ## Technologies
 
-**Currently learning**
+**Currently learning more**
 
-<img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+<img src="https://skillicons.dev/icons?i=rust" alt="c++" />
 
 **Web development**
 
@@ -39,7 +39,7 @@ A single-page weather application that retrieves real-world forecast data from M
 
 **Languages I've worked with**
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs&amp;perline=4" alt="Python, Java, C++, and C#" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs&amp;perline=4" alt="Python, Java, Rust, and C#" />
 
 **Tools**
 
