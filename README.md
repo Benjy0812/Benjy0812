@@ -49,8 +49,6 @@ A single-page weather application that retrieves real-world forecast data from M
 
 <img src="https://skillicons.dev/icons?i=windows,apple&amp;perline=2" alt="Windows and macOS" />
 
-
-
 ## Contact
 
 <a href="mailto:benjaminhr.dev@pm.me">
