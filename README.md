@@ -8,16 +8,9 @@ I enjoy turning ideas into useful software and learning something new along the 
 
 I'm a VG2 IT student in Norway with a strong interest in web development, debugging, and reliable software. I enjoy the full development process: building features, testing them, tracking down bugs, and learning from the problems I encounter.
 
-Right now, I'm building a To-Do list CLI in C++ and learning to program through practical projects. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
+Right now, I'm focused on web development and learning JavaScript through Nordisk Vær, a weather web app that uses real forecast data. Alongside that, I'm exploring C++ with a To-Do list CLI. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
 
 ## Featured Projects
-
-### [Rustget](https://github.com/Benjy0812/Rustget)
-
-An experimental package manager built as a practical Rust learning project. It explores command-line development, package manifests, validation, and clear error handling through small milestones.
-
-**Built with:** Rust<br>
-**Status:** Early development
 
 ### [Nordisk Vær](https://github.com/Benjy0812/Nordisk-Vaer)
 
@@ -27,32 +20,39 @@ A single-page weather application that retrieves real-world forecast data from M
 **Status:** In development toward version 1.0<br>
 **Live website:** [Open Nordisk Vær](https://benjy0812.github.io/Nordisk-Vaer/)
 
+### [Rustget](https://github.com/Benjy0812/Rustget)
+
+An experimental package manager built as a practical Rust learning project. It explores command-line development, package manifests, validation, and clear error handling through small milestones.
+
+**Built with:** Rust<br>
+**Status:** Early development
+
 ## Technologies
 
 **Currently learning more**
 
-<img src="https://skillicons.dev/icons?i=cpp" alt="c++" />
+<img src="https://skillicons.dev/icons?i=js,cpp&perline=2" alt="JavaScript and C++" />
 
 **Web development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&amp;perline=3" alt="HTML, CSS, and JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS, and JavaScript" />
 
 **Languages I've worked with**
 
-<img src="https://skillicons.dev/icons?i=py,java,rust,cs&amp;perline=4" alt="Python, Java, Rust, and C#" />
+<img src="https://skillicons.dev/icons?i=py,java,rust,cs&perline=4" alt="Python, Java, Rust, and C#" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vite,bun&amp;perline=4" alt="Git, GitHub, Vite, and Bun" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,bun&perline=4" alt="Git, GitHub, Vite, and Bun" />
 
 **Platforms**
 
-<img src="https://skillicons.dev/icons?i=windows,apple&amp;perline=2" alt="Windows and macOS" />
+<img src="https://skillicons.dev/icons?i=windows,apple&perline=2" alt="Windows and macOS" />
 
 ## Contact
 
 <a href="mailto:benjaminhr.dev@pm.me">
-  <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white" alt="Email Benjamin" />
+  <img src="https://img.shields.io/badge/Email-benjaminhr.dev%40pm.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email Benjamin" />
 </a>
 
 </div>
