@@ -8,7 +8,7 @@ I enjoy turning ideas into useful software and learning something new along the 
 
 I'm a VG2 IT student in Norway with a strong interest in web development, debugging, and reliable software. I enjoy the full development process: building features, testing them, tracking down bugs, and learning from the problems I encounter.
 
-Right now, I'm focused on web development and learning JavaScript through Nordisk Vær, a weather web app that uses real forecast data. Alongside that, I'm exploring C++ with a To-Do list CLI. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
+Right now, I'm focused on web development and learning JavaScript through Nordisk Vær, a weather web app that uses real forecast data. I recently wrapped up a C++ To-Do list CLI, which was my introduction to C++. My Rust project, Rustget, is on hold until Nordisk Vær is finished. After VG2, I hope to continue with an apprenticeship in IT development. I'm open to collaborations, learning opportunities, and conversations with other developers.
 
 ## Featured Projects
 
@@ -25,7 +25,7 @@ A single-page weather application that retrieves real-world forecast data from M
 An experimental package manager built as a practical Rust learning project. It explores command-line development, package manifests, validation, and clear error handling through small milestones.
 
 **Built with:** Rust<br>
-**Status:** Early development
+**Status:** On hold until Nordisk Vær is finished
 
 ## Technologies
 
@@ -33,13 +33,13 @@ An experimental package manager built as a practical Rust learning project. It e
 
 <img src="https://skillicons.dev/icons?i=js,cpp&perline=2" alt="JavaScript and C++" />
 
-**Web development**
+**Web technologies I’ve worked with**
 
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS, and JavaScript" />
 
 **Languages I've worked with**
 
-<img src="https://skillicons.dev/icons?i=py,java,rust,cs&perline=4" alt="Python, Java, Rust, and C#" />
+<img src="https://skillicons.dev/icons?i=py,java,rust,cs,cpp&perline=5" alt="Python, Java, Rust, C#, and C++" />
 
 **Tools**
 
